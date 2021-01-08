@@ -1,0 +1,21 @@
+body{
+	background: #9B7AD8;
+}
+header{
+	height: 80px;
+	width: 100%;
+	/*background: DarkRed;*/
+	color: white;
+}
+
+.contents{
+    padding-top: 10px;
+	background: pink;
+	width: 100%;
+    min-height: 400px;
+}
+.myindex{
+
+		margin: 20px;
+		padding: 20px;
+}

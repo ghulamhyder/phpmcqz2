@@ -1,0 +1,79 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-family: 'Roboto',sans-serif;
+	background:url('../images/mountain.png') no-repeat center center fixed;
+	background-size: cover;
+}
+header{
+	height: 80px;
+	width: 100%;
+	/*background: DarkRed;*/
+	color: white;
+}
+
+.myindex{
+
+		margin: 20px;
+		padding: 20px;
+}
+
+.mycont{
+	border: 1px solid #F70E3A;
+	position: relative;
+	top:90px;
+}
+.box1{
+	border: 1px solid #6B4BE4;
+	background-color: #6DDEF6;
+	opacity: 0.8;
+}
+.title{
+	margin-top: 25px;
+	text-align: center;
+	color: #56A069;
+}
+input{
+	border-radius: 5px solid #6A2F2F;
+	color: #8D2222;
+	margin-top: 20px;
+
+
+}
+.myhead{
+	margin-left: 50px;
+	margin-top: 20px;
+	color: #177C31;
+
+}
+hr{
+	background-color: #910F0F;
+}
+img{
+	width: 70%;
+	margin-left: 40px;
+	border-radius: 50% solid #3E25BD;
+
+}
+.mybtn{
+	width: 150px;
+	background-color:#821B1B;
+	font-size: 25px;
+}
+.mybtn:hover{
+	background-color: #29606E;
+	color: #6D6DD5;
+}
+a{
+	padding-left: 30px;
+	color: #886060;
+	margin-top: 50px;
+}
+a:hover{
+	color: #83BD86;
+}
+.btn1{
+	margin-bottom: 20px;
+}

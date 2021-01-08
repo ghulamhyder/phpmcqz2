@@ -1,0 +1,22 @@
+{
+    "name": "dell/mcqs",
+    "description": "something",
+    "require": {},
+    "autoload":{
+
+    	"files":[
+
+    			"helper/cssLink.php",
+                "helper/jsLink.php"
+    	],
+
+    	"psr-4":{
+
+    		"project\\":"classes/"
+    		
+
+
+    	}
+
+    }
+}
